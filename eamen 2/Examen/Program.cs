@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace eamen_2
+namespace Examen
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace eamen_2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Logins());
+            Application.Run(new Form1());
         }
     }
 }

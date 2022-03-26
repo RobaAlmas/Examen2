@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace eamen_2
 {
-    public partial class Form1 : Form
+    public partial class Logins : Form
     {
-        public Form1()
+        public Logins()
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        
     }
 }

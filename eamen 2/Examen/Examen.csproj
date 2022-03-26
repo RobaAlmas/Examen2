@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BC524764-7C19-4D05-99DD-D297DC440A23}</ProjectGuid>
+    <ProjectGuid>{3A888AC8-E74A-4B37-811E-036B95AD90CA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>eamen_2</RootNamespace>
-    <AssemblyName>eamen 2</AssemblyName>
+    <RootNamespace>Examen</RootNamespace>
+    <AssemblyName>Examen</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

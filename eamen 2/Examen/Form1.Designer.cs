@@ -1,4 +1,4 @@
-﻿namespace eamen_2
+﻿namespace Examen
 {
     partial class Form1
     {
