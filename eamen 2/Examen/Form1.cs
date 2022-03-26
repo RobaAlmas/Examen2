@@ -25,12 +25,9 @@ namespace Examen
             UsuarioDA usuarioDA = new UsuarioDA();
             Usuario usuario = new Usuario();
 
-            usuario = UsuarioDA.Login();
+            usuario = UsuarioDA.Login(usuariotextBox1.Text, clavetextBox2.Text);
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
+        
     }
 }

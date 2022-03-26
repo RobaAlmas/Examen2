@@ -45,7 +45,6 @@
             this.cancelarbutton1.TabIndex = 0;
             this.cancelarbutton1.Text = "Cancelar";
             this.cancelarbutton1.UseVisualStyleBackColor = true;
-            this.cancelarbutton1.Click += new System.EventHandler(this.button1_Click);
             // 
             // aceptarbutton2
             // 
